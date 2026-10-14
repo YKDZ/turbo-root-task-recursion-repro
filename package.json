@@ -1,0 +1,12 @@
+{
+  "name": "turbo-root-task-recursion-repro",
+  "private": true,
+  "packageManager": "pnpm@12.9.1",
+  "scripts": {
+    "boundaries": "turbo boundaries",
+    "echo-turbo": "echo turbo"
+  },
+  "devDependencies": {
+    "turbo": "2.11.8-canary.2"
+  }
+}
